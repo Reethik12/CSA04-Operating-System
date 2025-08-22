@@ -1,0 +1,9 @@
+Enter the filename to open for reading
+C:\Users\vreet\OneDrive\Documents\Desktop\File1.txt
+Enter the filename to open for writing
+C:\Users\vreet\OneDrive\Documents\Desktop\File2.txt
+
+Contents copied to C:\Users\vreet\OneDrive\Documents\Desktop\File2.txt
+--------------------------------
+Process exited after 43.19 seconds with return value 0
+Press any key to continue . . .
