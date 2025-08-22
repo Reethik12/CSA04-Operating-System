@@ -1,0 +1,25 @@
+Enter number of processes: 3
+
+Process P1
+Burst Time: 2
+Priority (smaller number = higher priority): 1
+
+Process P2
+Burst Time: 10
+Priority (smaller number = higher priority): 3
+
+Process P3
+Burst Time: 6
+Priority (smaller number = higher priority): 2
+
+Process	Burst Time	Priority	Waiting Time	Turnaround Time
+P1	2		1		0		2
+P3	6		2		2		8
+P2	10		3		8		18
+
+Average Waiting Time = 3.33
+Average Turnaround Time = 9.33
+
+--------------------------------
+Process exited after 51.79 seconds with return value 0
+Press any key to continue . . .
