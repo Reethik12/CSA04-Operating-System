@@ -1,0 +1,22 @@
+Enter the number of processes: 3
+Enter Burst Time for each process:
+P1: 34
+P2: 45
+P3: 67
+Enter Arrival Time for each process:
+P1: 26
+P2: 23
+P3: 27
+Enter Time Quantum: 2
+
+Process No      Burst Time      Turnaround Time Waiting Time
+P1              34              26              -8
+P2              45              98              53
+P3              67              119             52
+
+Average Waiting Time: 32.33
+Average Turnaround Time: 81.00
+
+--------------------------------
+Process exited after 125.2 seconds with return value 0
+Press any key to continue . . .
