@@ -1,0 +1,19 @@
+Enter number of processes: 4
+Enter Burst Time for each process:
+P1: 12
+P2: 14
+P3: 15
+P4: 16
+
+Process Burst Time      Waiting Time    Turnaround Time
+P1              12              0               12
+P2              14              12              26
+P3              15              26              41
+P4              16              41              57
+
+Average Waiting Time = 19.75
+Average Turnaround Time = 34.00
+
+--------------------------------
+Process exited after 7.237 seconds with return value 0
+Press any key to continue . . .
