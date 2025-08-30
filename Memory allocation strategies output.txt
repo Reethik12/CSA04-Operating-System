@@ -1,0 +1,43 @@
+--- Memory Allocation Menu ---
+1. First Fit
+2. Best Fit
+3. Worst Fit
+4. Exit
+Enter your choice: 1
+
+Process 1 of size 212 fits in partition 2 of size 500
+Process 2 of size 417 fits in partition 5 of size 600
+Process 3 of size 112 fits in partition 2 of size 288
+Process 4 of size 426 must wait
+
+--- Memory Allocation Menu ---
+1. First Fit
+2. Best Fit
+3. Worst Fit
+4. Exit
+Enter your choice: 2
+
+Process 1 of size 112 fits in partition 1 of size 100
+Process 2 of size 212 fits in partition 3 of size 200
+Process 3 of size 417 fits in partition 5 of size 600
+Process 4 of size 426 must wait
+
+--- Memory Allocation Menu ---
+1. First Fit
+2. Best Fit
+3. Worst Fit
+4. Exit
+Enter your choice: 3
+
+Process 1 of size 112 fits in partition 5 of size 600
+Process 2 of size 212 fits in partition 2 of size 500
+Process 3 of size 417 fits in partition 5 of size 488
+Process 4 of size 426 must wait
+
+--- Memory Allocation Menu ---
+1. First Fit
+2. Best Fit
+3. Worst Fit
+4. Exit
+Enter your choice: 4
+Exiting program.
