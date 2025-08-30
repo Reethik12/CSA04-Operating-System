@@ -1,0 +1,5 @@
+Data written to shared memory: Hello, shared memory!
+
+--------------------------------
+Process exited after 0.1252 seconds with return value 0
+Press any key to continue . . .
