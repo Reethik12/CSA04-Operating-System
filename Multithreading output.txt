@@ -1,0 +1,6 @@
+Hello from Thread 2!
+Hello from Thread 1!
+
+--------------------------------
+Process exited after 0.07352 seconds with return value 0
+Press any key to continue . . .
