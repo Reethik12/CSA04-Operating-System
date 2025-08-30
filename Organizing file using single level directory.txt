@@ -1,0 +1,35 @@
+--- File Operations Menu ---
+1. Create File
+2. Copy File
+3. Delete File
+4. Exit
+Enter your choice: 1
+File created successfully.
+
+--- File Operations Menu ---
+1. Create File
+2. Copy File
+3. Delete File
+4. Exit
+Enter your choice: 2
+File copied successfully.
+
+--- File Operations Menu ---
+1. Create File
+2. Copy File
+3. Delete File
+4. Exit
+Enter your choice: 3
+File deleted successfully.
+
+--- File Operations Menu ---
+1. Create File
+2. Copy File
+3. Delete File
+4. Exit
+Enter your choice: 4
+Exiting program.
+
+--------------------------------
+Process exited after 0.09545 seconds with return value 0
+Press any key to continue . . .

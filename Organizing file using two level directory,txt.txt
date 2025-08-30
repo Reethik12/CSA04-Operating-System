@@ -1,0 +1,5 @@
+File created successfully: C:/Users/Reethik12/OneDrive/Desktop/os/example.txt
+
+--------------------------------
+Process exited after 0.05732 seconds with return value 0
+Press any key to continue . . .
