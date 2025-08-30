@@ -1,0 +1,7 @@
+Waiting for client to connect...
+Producer: Data sent: Hello, Windows Named Pipe!
+Consumer: Data received: Hello, Windows Named Pipe!
+
+--------------------------------
+Process exited after 0.1252 seconds with return value 0
+Press any key to continue . . .
