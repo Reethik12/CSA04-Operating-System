@@ -1,0 +1,24 @@
+Memory Status:
+Free memory block: 0-999
+Allocated memory block 0-199 to Process 1
+
+Memory Status:
+Free memory block: 200-999
+Allocated memory block 200-499 to Process 2
+
+Memory Status:
+Free memory block: 500-999
+Memory released by Process 1
+
+Memory Status:
+Free memory block: 0-199
+Free memory block: 500-999
+Allocated memory block 500-899 to Process 3
+
+Memory Status:
+Free memory block: 0-199
+Free memory block: 900-999
+
+--------------------------------
+Process exited after 0.06512 seconds with return value 0
+Press any key to continue . . .

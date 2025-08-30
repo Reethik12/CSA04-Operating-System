@@ -1,0 +1,6 @@
+fd = 3
+File opened successfully!
+
+--------------------------------
+Process exited after 0.05818 seconds with return value 0
+Press any key to continue . . .

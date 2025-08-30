@@ -1,0 +1,5 @@
+Final counter value: 2000000
+
+--------------------------------
+Process exited after 0.45678 seconds with return value 0
+Press any key to continue . . .

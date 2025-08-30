@@ -1,0 +1,24 @@
+Writer writes data: 1
+Reader reads data: 1
+Writer writes data: 2
+Reader reads data: 2
+Writer writes data: 3
+Reader reads data: 3
+Writer writes data: 4
+Reader reads data: 4
+Writer writes data: 5
+Reader reads data: 5
+Writer writes data: 6
+Reader reads data: 6
+Writer writes data: 7
+Reader reads data: 7
+Writer writes data: 8
+Reader reads data: 8
+Writer writes data: 9
+Reader reads data: 9
+Writer writes data: 10
+Reader reads data: 10
+
+--------------------------------
+Process exited after 2.754 seconds with return value 0
+Press any key to continue . . .

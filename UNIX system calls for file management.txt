@@ -1,0 +1,12 @@
+File 'sample.txt' created successfully.
+File 'sample.txt' opened for writing.
+Data written to 'sample.txt'.
+File 'sample.txt' opened for reading.
+Data read from 'sample.txt':
+Hello, World!
+
+File 'sample.txt' deleted.
+
+--------------------------------
+Process exited after 0.07258 seconds with return value 0
+Press any key to continue . . .

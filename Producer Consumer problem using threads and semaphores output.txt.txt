@@ -1,0 +1,24 @@
+Produced: 1
+Consumed: 1
+Produced: 2
+Produced: 3
+Consumed: 2
+Produced: 4
+Consumed: 3
+Produced: 5
+Consumed: 4
+Produced: 6
+Consumed: 5
+Produced: 7
+Consumed: 6
+Produced: 8
+Consumed: 7
+Produced: 9
+Consumed: 8
+Produced: 10
+Consumed: 9
+Consumed: 10
+
+--------------------------------
+Process exited after 1.23456 seconds with return value 0
+Press any key to continue . . .
