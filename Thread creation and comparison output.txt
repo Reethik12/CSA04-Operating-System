@@ -1,0 +1,8 @@
+This line may be printed before thread terminates
+Threads are not equal
+Inside the thread
+This line will be printed after thread ends (main thread continues)
+
+--------------------------------
+Process exited after 1.086 seconds with return value 0
+Press any key to continue . . .

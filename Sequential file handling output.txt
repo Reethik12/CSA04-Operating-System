@@ -1,0 +1,25 @@
+Enter records (Enter '0' as record number to exit):
+Record Number: 1
+Data: Alice
+Record Number: 2
+Data: Bob
+Record Number: 3
+Data: Charlie
+Record Number: 0
+
+Enter the record number to read (0 to exit): 2
+Record Number: 2
+Data: Bob
+
+Enter the record number to read (0 to exit): 3
+Record Number: 3
+Data: Charlie
+
+Enter the record number to read (0 to exit): 5
+Record 5 not found.
+
+Enter the record number to read (0 to exit): 0
+
+--------------------------------
+Process exited after 1.2153 seconds with return value 0
+Press any key to continue . . .

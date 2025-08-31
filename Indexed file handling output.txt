@@ -1,0 +1,29 @@
+Enter blocks (Enter '0' as block number to exit):
+Block Number: 1
+Data: First record
+Block Number: 2
+Data: Second record
+Block Number: 3
+Data: Third record
+Block Number: 0
+
+Enter the block number to read (0 to exit): 2
+Block Number: 2
+Data: Second record
+
+Enter the block number to read (0 to exit): 1
+Block Number: 1
+Data: First record
+
+Enter the block number to read (0 to exit): 3
+Block Number: 3
+Data: Third record
+
+Enter the block number to read (0 to exit): 5
+Block not found.
+
+Enter the block number to read (0 to exit): 0
+
+--------------------------------
+Process exited after 1.3025 seconds with return value 0
+Press any key to continue . . .

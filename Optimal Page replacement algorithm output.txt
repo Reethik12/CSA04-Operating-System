@@ -1,0 +1,16 @@
+Reference String: 7 0 1 2 0 3 0 4 2 3 0 3 2
+
+Page Replacement Order:
+Page 7 ->  7  -  -
+Page 0 ->  7  0  -
+Page 1 ->  7  0  1
+Page 2 ->  2  0  1
+Page 3 ->  2  0  3
+Page 4 ->  2  4  3
+Page 0 ->  2  0  3
+
+Total Page Faults: 7
+
+--------------------------------
+Process exited after 0.07065 seconds with return value 0
+Press any key to continue . . .

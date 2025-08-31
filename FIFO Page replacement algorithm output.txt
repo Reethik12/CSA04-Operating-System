@@ -1,0 +1,17 @@
+Reference String: 7 0 1 2 0 3 0 4 2 3 0 3 2
+
+Page Replacement Order:
+Page 7 ->  7  -  -
+Page 0 ->  7  0  -
+Page 1 ->  7  0  1
+Page 2 ->  2  0  1
+Page 3 ->  2  3  1
+Page 0 ->  2  3  0
+Page 4 ->  4  3  0
+Page 2 ->  4  2  0
+Page 3 ->  4  2  3
+Page 0 ->  0  2  3
+
+--------------------------------
+Process exited after 0.07135 seconds with return value 0
+Press any key to continue . . .

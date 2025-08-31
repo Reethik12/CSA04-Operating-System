@@ -1,0 +1,22 @@
+Reference String: 7 0 1 2 0 3 0 4 2 3 0 3 2
+
+Page Replacement Order:
+Page 7 -> Load into empty frame:  7  -  -
+Page 0 -> Replace 7 with 0:  0  -  -
+Page 1 -> Replace 0 with 1:  1  -  -
+Page 2 -> Replace 1 with 2:  2  -  -
+Page 0 -> Replace 2 with 0:  0  -  -
+Page 3 -> Replace 0 with 3:  3  -  -
+Page 0 -> Replace 3 with 0:  0  -  -
+Page 4 -> Replace 0 with 4:  4  -  -
+Page 2 -> Replace 4 with 2:  2  -  -
+Page 3 -> Replace 2 with 3:  3  -  -
+Page 0 -> Replace 3 with 0:  0  -  -
+Page 3 -> Replace 0 with 3:  3  -  -
+Page 2 -> Replace 3 with 2:  2  -  -
+
+Total Page Faults: 13
+
+--------------------------------
+Process exited after 0.05797 seconds with return value 0
+Press any key to continue . . .

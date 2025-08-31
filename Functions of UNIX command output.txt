@@ -1,0 +1,9 @@
+Enter file name: C:\Users\vreet\OneDrive\Documents\Desktop
+Enter the pattern to search: Hello
+Lines containing the pattern 'Hello':
+Hello World
+Hello C
+
+--------------------------------
+Process exited after 2.5615 seconds with return value 0
+Press any key to continue . . .

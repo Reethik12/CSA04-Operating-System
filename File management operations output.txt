@@ -1,0 +1,6 @@
+Hello, World!
+This is a C file management example.
+
+--------------------------------
+Process exited after 0.08193 seconds with return value 0
+Press any key to continue . . .

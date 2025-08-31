@@ -1,0 +1,5 @@
+Usage: C:\Users\vreet\OneDrive\Documents\Desktop\Operating system\GREP UNIX command.exe <pattern> <filename>
+
+--------------------------------
+Process exited after 0.06422 seconds with return value 1
+Press any key to continue . . .
