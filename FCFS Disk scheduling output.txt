@@ -1,0 +1,13 @@
+Enter the number of disk requests: 5
+Enter the disk request queue:
+95 180 34 119 11
+Enter the initial position of the disk head: 50
+
+FCFS Disk Scheduling:
+Head Movement Sequence: 50 -> 95 -> 180 -> 34 -> 119 -> 11
+Total Seek Time: 640
+Average Seek Time: 128.00
+
+--------------------------------
+Process exited after 0.84645 seconds with return value 0
+Press any key to continue . . .

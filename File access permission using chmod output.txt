@@ -1,0 +1,5 @@
+File permissions changed successfully.
+
+--------------------------------
+Process exited after 0.06168 seconds with return value 1
+Press any key to continue . . .

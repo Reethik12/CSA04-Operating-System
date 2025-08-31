@@ -1,0 +1,13 @@
+Enter the number of disk requests: 5
+Enter the disk request queue:
+95 180 34 119 11
+Enter the initial position of the disk head: 50
+
+C-SCAN Disk Scheduling:
+Head Movement Sequence: 50 -> 95 -> 119 -> 180 -> 0 -> 11 -> 34
+Total Seek Time: 438
+Average Seek Time: 87.60
+
+--------------------------------
+Process exited after 0.68421 seconds with return value 0
+Press any key to continue . . .

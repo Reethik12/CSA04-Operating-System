@@ -1,0 +1,20 @@
+Linked Allocation Simulation
+
+Enter 'W' to write a block, 'R' to read a block, or 'Q' to quit: W
+Enter data for the block: First block
+Block 1 written successfully.
+
+Enter 'W' to write a block, 'R' to read a block, or 'Q' to quit: W
+Enter data for the block: Second block
+Block 2 written successfully.
+
+Enter 'W' to write a block, 'R' to read a block, or 'Q' to quit: R
+Enter the block number to read (1-2): 2
+Block 2 Data: Second block
+
+Enter 'W' to write a block, 'R' to read a block, or 'Q' to quit: Q
+Exiting simulation.
+
+--------------------------------
+Process exited after 0.2648 seconds with return value 1
+Press any key to continue . . .
